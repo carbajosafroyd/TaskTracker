@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries and cook dinner",
+        "status": "done",
+        "updatedAt": "2026-10-01T10:36:58.385661"
+    },
+    {
+        "id": 2,
+        "description": "Buy groceries and cook dinner",
+        "status": "todo",
+        "updatedAt": "2026-10-01T10:25:36.603304"
+    },
+    {
+        "id": 4,
+        "description": "Read a Python book",
+        "status": "todo",
+        "createdAt": "2026-10-01T09:28:59.713954",
+        "updatedAt": "2026-10-01T09:28:59.713954"
+    },
+    {
+        "id": 5,
+        "description": "Learn Python functions",
+        "status": "todo",
+        "createdAt": "2026-10-01T09:48:23.302011",
+        "updatedAt": "2026-10-01T09:48:23.302011"
+    }
+]
