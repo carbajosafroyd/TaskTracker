@@ -4,6 +4,8 @@ A simple command-line task tracker written in Python.
 
 The application stores tasks in a local `tasks.json` file and supports adding, updating, deleting, listing, and changing the status of tasks.
 
+Project URL: https://roadmap.sh/projects/task-tracker
+
 ## Requirements
 
 - Python 3
